@@ -44,9 +44,9 @@ Simply execute a.out and watch the result
 
 ![Small Highway Spread](Screen/small_spread.png)
 
-![Big Highway](Screen/big.png)
+![Big Highway](Screen/big2.png)
 
-![Big Highway Spread](Screen/big_spread.png)
+![Big Highway Spread](Screen/big_spread2.png)
 
 ## Meta
 
