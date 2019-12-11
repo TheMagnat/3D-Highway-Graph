@@ -38,6 +38,15 @@ Simply execute a.out and watch the result
 ./a.out
 ```
 
+## Exemple
+
+![Small Highway](Screen/small.png)
+
+![Small Highway Spread](Screen/small_spread.png)
+
+![Big Highway](Screen/big.png)
+
+![Big Highway Spread](Screen/big_spread.png)
 
 ## Meta
 
