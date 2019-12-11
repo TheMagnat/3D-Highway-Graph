@@ -1,7 +1,4 @@
 # 3D-Highway-Graph
-
-
-# 3D-Highway-Graph
 > 3D Representation of graph with cars on it.
 
 
