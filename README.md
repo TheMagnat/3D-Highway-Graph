@@ -49,7 +49,7 @@ Simply execute a.out and watch the result
 
 ## Meta
 
-Magniadas Guillaume – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Magniadas Guillaume – [@MagniadasG](https://twitter.com/MagniadasG)
 
 [https://github.com/TheMagnat/github-link](https://github.com/TheMagnat/)
 
