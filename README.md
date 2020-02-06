@@ -6,7 +6,6 @@ This is a work for one of my college course, we had to implement an ecosystem of
 
 Since it's a French course, all the comment will be in french.
 
-![](header.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
